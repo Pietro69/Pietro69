@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Peter Vojtík 👋
 
-<!--
-**Pietro69/Pietro69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'm a Computer Science student at **VŠB – Technical University of Ostrava**, Czech Republic.
 
-Here are some ideas to get you started:
+  My main interests are **software development** and **web development**, and recently I've been
+  diving deeper into **cybersecurity** — an area I'm actively looking to grow and specialize in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  ## 🛠️ Tech Stack
+
+  - **Languages:** TypeScript, Kotlin, Java, HTML/CSS
+  - **Tools & Platforms:** Git, GitHub, Node.js
+  - **Currently exploring:** Cybersecurity, penetration testing, secure development practices
+
+  ---
+
+  ## 📌 Projects
+
+  - [**theatre-ticket-system**](https://github.com/Pietro69/theatre-ticket-system) — Full-stack
+  theatre ticketing application built with TypeScript
+  - [**CompoundInterest**](https://github.com/Pietro69/CompoundInterest) — Compound interest
+  calculator built in Kotlin
+
+  ---
+
+  ## 📚 Currently Learning
+
+  - Web application security & OWASP fundamentals
+  - Network security basics
+  - CTF challenges
+
+  ---
+
+  ## 📬 Get in Touch
+
+  - 📍 Ostrava, Czech Republic
+  - 🎓 VŠB – Technical University of Ostrava
+
+  ---
+
+  *Always building. Always learning.*
