@@ -9,9 +9,9 @@
 
   ## 🛠️ Tech Stack
 
-  - **Languages:** TypeScript, Kotlin, Java, HTML/CSS
-  - **Tools & Platforms:** Git, GitHub, Node.js
-  - **Currently exploring:** Cybersecurity, penetration testing, secure development practices
+  - **Languages:** TypeScript, Kotlin, Java, C/C++, HTML/CSS, JavaScript
+  - **Tools & Platforms:** Git, GitHub, Node.js, Claude
+  - **Currently exploring:** Cybersecurity, secure development practices
 
   ---
 
@@ -26,16 +26,24 @@
 
   ## 📚 Currently Learning
 
-  - Web application security & OWASP fundamentals
+  - Web application security 
   - Network security basics
-  - CTF challenges
+  - Database design and development
+
+  ---
+
+  ## 🎓 Education
+
+  **VŠB – Technical University of Ostrava**
+  Bachelor's degree in Computer Science
+  📍 Ostrava, Czech Republic
 
   ---
 
   ## 📬 Get in Touch
 
-  - 📍 Ostrava, Czech Republic
-  - 🎓 VŠB – Technical University of Ostrava
+  - 📧 peter.vojtikjr@gmail.com
+  - 💼 [LinkedIn](https://linkedin.com/in/peter-vojtík-b8251a400/)
 
   ---
 
